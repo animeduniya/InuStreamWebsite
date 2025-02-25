@@ -4,12 +4,13 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "preview": "nuxt preview",
+    "install-sass": "npm install sass@latest"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.1.1",
     "nuxt": "3.0.0-rc.8",
-    "sass": "^1.54.9",
+    "sass": "latest",
     "sass-loader": "^10.3.1"
   },
   "dependencies": {
