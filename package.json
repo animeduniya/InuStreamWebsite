@@ -11,7 +11,7 @@
     "@tauri-apps/cli": "^1.1.1",
     "nuxt": "3.0.0-rc.8",
     "sass": "latest",
-    "sass-loader": "^10.3.1"
+    "sass-loader": "^18.0.0"
   },
   "dependencies": {
     "@consumet/extensions": "git+https://github.com/consumet/consumet.ts.git",
