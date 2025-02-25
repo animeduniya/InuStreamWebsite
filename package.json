@@ -4,14 +4,13 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "install-sass": "npm install sass@latest"
+    "preview": "nuxt preview"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.1.1",
     "nuxt": "3.0.0-rc.8",
-    "sass": "latest",
-    "sass-loader": "^18.0.0"
+    "sass": "^1.54.9",
+    "sass-loader": "^10.3.1"
   },
   "dependencies": {
     "@consumet/extensions": "git+https://github.com/consumet/consumet.ts.git",
